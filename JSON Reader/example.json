@@ -1,0 +1,21 @@
+{
+	"first_name": "Salman",
+	"last_name": "Ahmad",
+	"gender": "male",
+	"age": "22",
+	"hobbies": [
+		"video games",
+		"drawing",
+		"music"
+	],
+	"fav_books": [
+		{
+			"name": "The Shallows",
+			"author": "Nicholas G. Carr"
+		},
+		{
+			"name": "Brain Bugs",
+			"author": "Dean Buonomano"
+		}
+	]
+}
